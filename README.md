@@ -43,10 +43,8 @@ Fitness Tracker - Hälsoapp med fokus på OOP-principer
 
 🔄 Deployment
 Projektet använder automatisk deployment via Vercel:
+den finns på live sacad elmi.se
 
-Push till GitHub → Vercel detekterar ändring
-Automatisk build och deploy
-Live på sacadelmi.se inom 30 sekunder
 
 📞 Kontakt
 
